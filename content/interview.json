@@ -1,0 +1,293 @@
+{
+  "schemaVersion": "1.0",
+  "questions": [
+    {
+      "id": "INT-001",
+      "category": "職業志望",
+      "question": "診療放射線技師を目指した理由は何ですか？",
+      "answerPoints": [
+        "きっかけ",
+        "仕事への理解",
+        "将来像"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-002",
+      "category": "大学志望",
+      "question": "なぜ国際医療福祉大学を選んだのですか？",
+      "answerPoints": [
+        "大学の特色",
+        "本人の目標との接点"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-003",
+      "category": "成田志望",
+      "question": "成田キャンパスで学びたい理由は？",
+      "answerPoints": [
+        "医学部連携や教育機器など具体例"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-004",
+      "category": "学科理解",
+      "question": "放射線・情報科学科では何を学ぶと思いますか？",
+      "answerPoints": [
+        "診断・治療・医療情報を整理"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-005",
+      "category": "適性",
+      "question": "あなたの長所を仕事にどう生かしますか？",
+      "answerPoints": [
+        "長所",
+        "行動の例",
+        "医療との関係"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-006",
+      "category": "改善",
+      "question": "短所と改善のための工夫は？",
+      "answerPoints": [
+        "短所を認め具体的な改善策"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-007",
+      "category": "将来",
+      "question": "10年後どのような医療従事者になりたいですか？",
+      "answerPoints": [
+        "患者中心、安全、継続学習"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-008",
+      "category": "大学生活",
+      "question": "入学後に力を入れたい学習は？",
+      "answerPoints": [
+        "講義・実習・チーム医療"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-009",
+      "category": "高校生活",
+      "question": "高校生活で最も努力したことは？",
+      "answerPoints": [
+        "状況",
+        "行動",
+        "成果",
+        "学び"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-010",
+      "category": "失敗経験",
+      "question": "失敗した経験から何を学びましたか？",
+      "answerPoints": [
+        "責任転嫁せず振り返り"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-011",
+      "category": "協働",
+      "question": "グループ内で意見が割れた時の対応は？",
+      "answerPoints": [
+        "傾聴",
+        "論点整理",
+        "合意形成"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-012",
+      "category": "説明",
+      "question": "不安を感じる患者にどう接しますか？",
+      "answerPoints": [
+        "相手の理解度に合わせた説明"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-013",
+      "category": "安全",
+      "question": "医療安全で大切なことは？",
+      "answerPoints": [
+        "確認・報告・チーム連携"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-014",
+      "category": "被ばく",
+      "question": "放射線は危険だと言う人にどう説明しますか？",
+      "answerPoints": [
+        "利益とリスクを正確に説明"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-015",
+      "category": "機器",
+      "question": "CTとMRIの違いを簡単に説明してください。",
+      "answerPoints": [
+        "X線と磁場・電波の違い"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-016",
+      "category": "チーム",
+      "question": "チーム医療をどう考えますか？",
+      "answerPoints": [
+        "専門性と情報共有"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-017",
+      "category": "AI",
+      "question": "AIによって診療放射線技師の仕事はどう変わりますか？",
+      "answerPoints": [
+        "支援と人の判断を区別"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-018",
+      "category": "倫理",
+      "question": "患者の個人情報を扱う際の注意点は？",
+      "answerPoints": [
+        "守秘・最小限の共有"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-019",
+      "category": "地域",
+      "question": "地域医療で放射線技師が貢献できることは？",
+      "answerPoints": [
+        "早期発見と医療アクセス"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-020",
+      "category": "学習",
+      "question": "苦手科目にどう向き合いますか？",
+      "answerPoints": [
+        "具体的な学習計画"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-021",
+      "category": "探究",
+      "question": "興味のある医療技術を一つ挙げてください。",
+      "answerPoints": [
+        "原理よりも関心の理由"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-022",
+      "category": "信頼",
+      "question": "医療従事者に必要な信頼とは何でしょうか？",
+      "answerPoints": [
+        "正確・誠実・説明責任"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-023",
+      "category": "コミュニケーション",
+      "question": "相手に伝わる説明のために意識していることは？",
+      "answerPoints": [
+        "言い換え・確認"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-024",
+      "category": "ニュース",
+      "question": "最近気になった医療関連ニュースは？",
+      "answerPoints": [
+        "事実",
+        "関心",
+        "考え"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    },
+    {
+      "id": "INT-025",
+      "category": "逆質問",
+      "question": "大学について質問したいことはありますか？",
+      "answerPoints": [
+        "公式情報で分かることを避け学習意欲に結びつける"
+      ],
+      "sampleAnswer": null,
+      "personalAnswer": "",
+      "originalExercise": true
+    }
+  ],
+  "note": "回答は本人の経験に基づいて記入。架空の経験を自動生成しない。"
+}

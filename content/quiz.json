@@ -1,0 +1,706 @@
+{
+  "schemaVersion": "1.0",
+  "questions": [
+    {
+      "id": "QUI-001",
+      "category": "大学研究",
+      "question": "「進学先の正式名称」について最も適切な説明はどれ？",
+      "choices": [
+        "専門職には卒業後の学び直しは必要ない。",
+        "国際医療福祉大学 成田保健医療学部 放射線・情報科学科。千葉県の成田キャンパスで、診療放射線技師を目指す。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。"
+      ],
+      "correctIndex": 1,
+      "explanation": "国際医療福祉大学 成田保健医療学部 放射線・情報科学科。千葉県の成田キャンパスで、診療放射線技師を目指す。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-002",
+      "category": "大学研究",
+      "question": "「学科の目標」について最も適切な説明はどれ？",
+      "choices": [
+        "放射線を使う画像診断や放射線治療を支える知識と技術に加え、患者さんの負担を抑える判断力を学ぶ。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "放射線を使う画像診断や放射線治療を支える知識と技術に加え、患者さんの負担を抑える判断力を学ぶ。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-003",
+      "category": "大学研究",
+      "question": "「医学部との連携」について最も適切な説明はどれ？",
+      "choices": [
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。",
+        "成田キャンパスには医学部と複数の医療系学部があり、他職種を理解しながら学ぶ環境がある。"
+      ],
+      "correctIndex": 3,
+      "explanation": "成田キャンパスには医学部と複数の医療系学部があり、他職種を理解しながら学ぶ環境がある。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-004",
+      "category": "大学研究",
+      "question": "「教育専用機器」について最も適切な説明はどれ？",
+      "choices": [
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。",
+        "教育専用の医療機器を備え、実践的な学修を重視する。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。"
+      ],
+      "correctIndex": 2,
+      "explanation": "教育専用の医療機器を備え、実践的な学修を重視する。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-005",
+      "category": "大学研究",
+      "question": "「成田シミュレーションセンター」について最も適切な説明はどれ？",
+      "choices": [
+        "専門職には卒業後の学び直しは必要ない。",
+        "学内のシミュレーションセンターを活用した教育が紹介されている。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。"
+      ],
+      "correctIndex": 1,
+      "explanation": "学内のシミュレーションセンターを活用した教育が紹介されている。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-006",
+      "category": "大学研究",
+      "question": "「附属病院実習」について最も適切な説明はどれ？",
+      "choices": [
+        "国際医療福祉大学成田病院など附属・関連施設で学ぶ機会がある。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "国際医療福祉大学成田病院など附属・関連施設で学ぶ機会がある。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-007",
+      "category": "大学研究",
+      "question": "「海外研修」について最も適切な説明はどれ？",
+      "choices": [
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。",
+        "学科紹介では海外研修を必須科目として案内している。"
+      ],
+      "correctIndex": 3,
+      "explanation": "学科紹介では海外研修を必須科目として案内している。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-008",
+      "category": "大学研究",
+      "question": "「放射線の二つの役割」について最も適切な説明はどれ？",
+      "choices": [
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。",
+        "画像を撮る「診断」と、がんなどに対する「治療」は放射線医療の重要な柱である。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。"
+      ],
+      "correctIndex": 2,
+      "explanation": "画像を撮る「診断」と、がんなどに対する「治療」は放射線医療の重要な柱である。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-009",
+      "category": "大学研究",
+      "question": "「チーム医療」について最も適切な説明はどれ？",
+      "choices": [
+        "専門職には卒業後の学び直しは必要ない。",
+        "診療放射線技師は医師や看護師などと情報を共有し、患者の安全を支える。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。"
+      ],
+      "correctIndex": 1,
+      "explanation": "診療放射線技師は医師や看護師などと情報を共有し、患者の安全を支える。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-010",
+      "category": "大学研究",
+      "question": "「医療情報を学ぶ意義」について最も適切な説明はどれ？",
+      "choices": [
+        "撮影画像を適切に管理し、診療に活用するための情報技術・安全意識が必要。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "撮影画像を適切に管理し、診療に活用するための情報技術・安全意識が必要。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-011",
+      "category": "大学研究",
+      "question": "「患者への配慮」について最も適切な説明はどれ？",
+      "choices": [
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。",
+        "検査には不安や痛みを感じる患者がいる。説明・声掛け・プライバシーへの配慮も大切。"
+      ],
+      "correctIndex": 3,
+      "explanation": "検査には不安や痛みを感じる患者がいる。説明・声掛け・プライバシーへの配慮も大切。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-012",
+      "category": "大学研究",
+      "question": "「進路目標」について最も適切な説明はどれ？",
+      "choices": [
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。",
+        "診療放射線技師として働くには、養成課程の修了など受験資格を満たし国家試験に合格する必要がある。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。"
+      ],
+      "correctIndex": 2,
+      "explanation": "診療放射線技師として働くには、養成課程の修了など受験資格を満たし国家試験に合格する必要がある。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-013",
+      "category": "大学研究",
+      "question": "「大学を選ぶ理由の作り方」について最も適切な説明はどれ？",
+      "choices": [
+        "専門職には卒業後の学び直しは必要ない。",
+        "教育専用機器、他職種連携、病院実習、国際研修のうち、本人の目標と関係する特徴を選ぶ。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。"
+      ],
+      "correctIndex": 1,
+      "explanation": "教育専用機器、他職種連携、病院実習、国際研修のうち、本人の目標と関係する特徴を選ぶ。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-014",
+      "category": "大学研究",
+      "question": "「入学後に取り組みたいこと」について最も適切な説明はどれ？",
+      "choices": [
+        "専門知識に加え、コミュニケーション、医療安全、医療情報への理解を深める計画を考える。",
+        "大学の特徴はすべてのキャンパスで完全に同一であり確認不要。",
+        "この分野では安全管理も患者説明も不要。",
+        "専門職には卒業後の学び直しは必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "専門知識に加え、コミュニケーション、医療安全、医療情報への理解を深める計画を考える。",
+      "sourceType": "university_official_summary"
+    },
+    {
+      "id": "QUI-015",
+      "category": "診療放射線技師",
+      "question": "「診療放射線技師」の説明として適切なのは？",
+      "choices": [
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "医師の指示など法令で定められた条件の下で、X線撮影、CT、MRIなどの検査や放射線治療に関わる医療職。"
+      ],
+      "correctIndex": 3,
+      "explanation": "医師の指示など法令で定められた条件の下で、X線撮影、CT、MRIなどの検査や放射線治療に関わる医療職。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-016",
+      "category": "診療放射線技師",
+      "question": "「一般X線撮影」の説明として適切なのは？",
+      "choices": [
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "人体を透過したX線の差から画像を作る。骨や胸部の観察などに用いる。",
+        "すべての検査はX線を用いる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "人体を透過したX線の差から画像を作る。骨や胸部の観察などに用いる。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-017",
+      "category": "診療放射線技師",
+      "question": "「CT」の説明として適切なのは？",
+      "choices": [
+        "医療機器には安全確認は必要ない。",
+        "X線を多方向から照射して断層画像を再構成する。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "X線を多方向から照射して断層画像を再構成する。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-018",
+      "category": "診療放射線技師",
+      "question": "「MRI」の説明として適切なのは？",
+      "choices": [
+        "強い磁場と電波の性質を利用し、X線を使わず画像化する。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "強い磁場と電波の性質を利用し、X線を使わず画像化する。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-019",
+      "category": "診療放射線技師",
+      "question": "「超音波検査」の説明として適切なのは？",
+      "choices": [
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "高周波の音を使い体内を観察する。放射線は使用しない。"
+      ],
+      "correctIndex": 3,
+      "explanation": "高周波の音を使い体内を観察する。放射線は使用しない。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-020",
+      "category": "診療放射線技師",
+      "question": "「核医学検査」の説明として適切なのは？",
+      "choices": [
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "放射性医薬品を使い、体内での分布や機能を画像化する。",
+        "すべての検査はX線を用いる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "放射性医薬品を使い、体内での分布や機能を画像化する。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-021",
+      "category": "診療放射線技師",
+      "question": "「放射線治療」の説明として適切なのは？",
+      "choices": [
+        "医療機器には安全確認は必要ない。",
+        "がん細胞などに放射線を照射し、正常組織への影響を抑えながら治療する。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "がん細胞などに放射線を照射し、正常組織への影響を抑えながら治療する。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-022",
+      "category": "診療放射線技師",
+      "question": "「放射線防護」の説明として適切なのは？",
+      "choices": [
+        "検査目的に応じた正当化・最適化、職業被ばく管理などが重要。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "検査目的に応じた正当化・最適化、職業被ばく管理などが重要。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-023",
+      "category": "診療放射線技師",
+      "question": "「医療被ばく」の説明として適切なのは？",
+      "choices": [
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "患者が検査や治療のために受ける放射線。利益とリスクを総合して判断する。"
+      ],
+      "correctIndex": 3,
+      "explanation": "患者が検査や治療のために受ける放射線。利益とリスクを総合して判断する。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-024",
+      "category": "診療放射線技師",
+      "question": "「画像の品質」の説明として適切なのは？",
+      "choices": [
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "適切な条件で撮影し、診断に必要な画像を得る。再撮影を減らす工夫も重要。",
+        "すべての検査はX線を用いる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "適切な条件で撮影し、診断に必要な画像を得る。再撮影を減らす工夫も重要。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-025",
+      "category": "診療放射線技師",
+      "question": "「患者確認」の説明として適切なのは？",
+      "choices": [
+        "医療機器には安全確認は必要ない。",
+        "本人確認、部位確認、検査内容確認は医療事故防止の基本。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "本人確認、部位確認、検査内容確認は医療事故防止の基本。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-026",
+      "category": "診療放射線技師",
+      "question": "「造影検査」の説明として適切なのは？",
+      "choices": [
+        "造影剤で組織や血管を見やすくする場合がある。アレルギー歴等の確認と医療チーム連携が必要。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。"
+      ],
+      "correctIndex": 0,
+      "explanation": "造影剤で組織や血管を見やすくする場合がある。アレルギー歴等の確認と医療チーム連携が必要。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-027",
+      "category": "診療放射線技師",
+      "question": "「PACS」の説明として適切なのは？",
+      "choices": [
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "医療用画像を保存・配信し、診療で共有する仕組み。"
+      ],
+      "correctIndex": 3,
+      "explanation": "医療用画像を保存・配信し、診療で共有する仕組み。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-028",
+      "category": "診療放射線技師",
+      "question": "「AI画像診断支援」の説明として適切なのは？",
+      "choices": [
+        "患者への説明は不要である。",
+        "医療機器には安全確認は必要ない。",
+        "画像の検出や分類を支援する技術。最終的な診療判断や説明の責任まで自動化するものではない。",
+        "すべての検査はX線を用いる。"
+      ],
+      "correctIndex": 2,
+      "explanation": "画像の検出や分類を支援する技術。最終的な診療判断や説明の責任まで自動化するものではない。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-029",
+      "category": "診療放射線技師",
+      "question": "「患者とのコミュニケーション」の説明として適切なのは？",
+      "choices": [
+        "医療機器には安全確認は必要ない。",
+        "説明・確認・傾聴を通じて患者の不安軽減と安全な検査につなげる。",
+        "すべての検査はX線を用いる。",
+        "患者への説明は不要である。"
+      ],
+      "correctIndex": 1,
+      "explanation": "説明・確認・傾聴を通じて患者の不安軽減と安全な検査につなげる。",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "QUI-030",
+      "category": "確認問題",
+      "question": "CTが主に使うものは？",
+      "choices": [
+        "X線",
+        "超音波",
+        "可視光",
+        "レーザー"
+      ],
+      "correctIndex": 0,
+      "explanation": "CTはX線で断層画像を再構成する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-031",
+      "category": "確認問題",
+      "question": "MRIが主に利用するものは？",
+      "choices": [
+        "X線のみ",
+        "磁場と電波",
+        "紫外線",
+        "赤外線"
+      ],
+      "correctIndex": 1,
+      "explanation": "MRIでは磁場と電波を利用する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-032",
+      "category": "確認問題",
+      "question": "超音波検査で使うものは？",
+      "choices": [
+        "X線",
+        "ガンマ線",
+        "音波",
+        "陽子線"
+      ],
+      "correctIndex": 2,
+      "explanation": "超音波検査は音波を利用する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-033",
+      "category": "確認問題",
+      "question": "医療情報保護で適切なのは？",
+      "choices": [
+        "私的SNSで画像を共有",
+        "必要な人に適切な範囲で共有",
+        "共用端末にログインを放置",
+        "本人確認を省略"
+      ],
+      "correctIndex": 1,
+      "explanation": "情報共有にはアクセス管理が必要。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-034",
+      "category": "確認問題",
+      "question": "患者に不安がある時の適切な対応は？",
+      "choices": [
+        "説明せず始める",
+        "疑問を聞き分かりやすく説明",
+        "不安を否定する",
+        "必ず検査を中止する"
+      ],
+      "correctIndex": 1,
+      "explanation": "傾聴と適切な説明が重要。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-035",
+      "category": "確認問題",
+      "question": "小論文で重要なものは？",
+      "choices": [
+        "結論を曖昧にする",
+        "主張と根拠の一貫性",
+        "同じ文章を繰り返す",
+        "出典を創作する"
+      ],
+      "correctIndex": 1,
+      "explanation": "筋道の通った説明を重視する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-036",
+      "category": "確認問題",
+      "question": "面接で志望理由を述べるときは？",
+      "choices": [
+        "大学の特徴だけ列挙",
+        "他校の批判",
+        "自分の経験と特色を関連づける",
+        "回答を丸暗記するだけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本人の目標と大学の強みを結びつける。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-037",
+      "category": "確認問題",
+      "question": "臨床実習で大切なことは？",
+      "choices": [
+        "確認手順を省く",
+        "安全と学びの姿勢",
+        "無断で情報を発信",
+        "分からないことを隠す"
+      ],
+      "correctIndex": 1,
+      "explanation": "安全確認と相談を優先。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-038",
+      "category": "確認問題",
+      "question": "AI支援の利用で適切なのは？",
+      "choices": [
+        "誤りは起こらない",
+        "適切な検証と人の判断が必要",
+        "患者への説明が不要",
+        "診療判断の責任が消える"
+      ],
+      "correctIndex": 1,
+      "explanation": "AIは支援であり限界と検証が必要。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-039",
+      "category": "確認問題",
+      "question": "放射線治療で大切なのは？",
+      "choices": [
+        "照射位置と線量の精度",
+        "画像を保存しない",
+        "患者を確認しない",
+        "毎回同じ条件で十分"
+      ],
+      "correctIndex": 0,
+      "explanation": "治療では精度と安全が重要。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-040",
+      "category": "確認問題",
+      "question": "小論文の序論に向くものは？",
+      "choices": [
+        "設問への立場",
+        "無関係な話題",
+        "同じ事例の連続",
+        "結論の否定"
+      ],
+      "correctIndex": 0,
+      "explanation": "序論で論点と立場を明確にする。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-041",
+      "category": "確認問題",
+      "question": "反対意見への向き合い方は？",
+      "choices": [
+        "すべて無視",
+        "懸念を理解し根拠で説明",
+        "感情的に批判",
+        "事実を創作"
+      ],
+      "correctIndex": 1,
+      "explanation": "反対意見を整理し論理的に応答する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-042",
+      "category": "確認問題",
+      "question": "MRIで確認が重要な項目は？",
+      "choices": [
+        "金属や植込み機器",
+        "靴のサイズのみ",
+        "試験科目",
+        "食事の好みのみ"
+      ],
+      "correctIndex": 0,
+      "explanation": "MRIでは強い磁場への安全確認が欠かせない。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-043",
+      "category": "確認問題",
+      "question": "PACSの役割は？",
+      "choices": [
+        "医療画像の保存・配信",
+        "薬の製造",
+        "放射線の発生だけ",
+        "体温測定専用"
+      ],
+      "correctIndex": 0,
+      "explanation": "PACSは医用画像情報の管理・共有に使う。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-044",
+      "category": "確認問題",
+      "question": "チーム医療で望ましい行動は？",
+      "choices": [
+        "他職種の意見を聞かない",
+        "必要な情報を共有",
+        "自分だけで全判断",
+        "報告を省く"
+      ],
+      "correctIndex": 1,
+      "explanation": "各職種の専門性を活用する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-045",
+      "category": "確認問題",
+      "question": "小論文の推敲で確認することは？",
+      "choices": [
+        "誤字・論旨・字数",
+        "文字サイズだけ",
+        "出題者の氏名",
+        "余白だけ"
+      ],
+      "correctIndex": 0,
+      "explanation": "読みやすさと論理性を確認する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-046",
+      "category": "確認問題",
+      "question": "信頼される医療職の姿勢は？",
+      "choices": [
+        "不明点を隠す",
+        "誠実な説明と学習",
+        "確認せず進める",
+        "相手の希望を無視"
+      ],
+      "correctIndex": 1,
+      "explanation": "医療職には説明責任と学びが重要。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-047",
+      "category": "確認問題",
+      "question": "専門職が継続学習する理由は？",
+      "choices": [
+        "知識が不変だから",
+        "技術と知見が変化するから",
+        "試験は無いから",
+        "一度覚えれば十分だから"
+      ],
+      "correctIndex": 1,
+      "explanation": "進歩する医療に対応するため。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-048",
+      "category": "確認問題",
+      "question": "放射線防護の考え方で適切なのは？",
+      "choices": [
+        "必要性と適切な条件を検討",
+        "どんな検査も禁止",
+        "条件検討は不要",
+        "患者説明は無意味"
+      ],
+      "correctIndex": 0,
+      "explanation": "正当化と最適化が基本。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-049",
+      "category": "確認問題",
+      "question": "学校推薦型選抜の方式が不明な時は？",
+      "choices": [
+        "公募制だと断定",
+        "高校進路指導室で確認",
+        "SNSだけで判断",
+        "準備をすべて中止"
+      ],
+      "correctIndex": 1,
+      "explanation": "指定校制の条件・科目は高校側に確認する。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "QUI-050",
+      "category": "確認問題",
+      "question": "国際医療福祉大学の成田の学科名は？",
+      "choices": [
+        "診療情報管理科",
+        "放射線・情報科学科",
+        "放射線福祉科",
+        "医学技師専攻"
+      ],
+      "correctIndex": 1,
+      "explanation": "正式名称は放射線・情報科学科。",
+      "sourceType": "original_exercise"
+    }
+  ],
+  "note": "全50問オリジナル。実際の出題実績を保証するものではない。"
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "title": "診療放射線技師の基礎",
+  "note": "一般的な学習用説明。個別の医療判断に用いない。",
+  "topics": [
+    {
+      "id": "RAD-001",
+      "title": "診療放射線技師",
+      "body": "医師の指示など法令で定められた条件の下で、X線撮影、CT、MRIなどの検査や放射線治療に関わる医療職。",
+      "learningPoint": "医師・看護師との役割の違い",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-002",
+      "title": "一般X線撮影",
+      "body": "人体を透過したX線の差から画像を作る。骨や胸部の観察などに用いる。",
+      "learningPoint": "放射線を用いる",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-003",
+      "title": "CT",
+      "body": "X線を多方向から照射して断層画像を再構成する。",
+      "learningPoint": "X線被ばくがある",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-004",
+      "title": "MRI",
+      "body": "強い磁場と電波の性質を利用し、X線を使わず画像化する。",
+      "learningPoint": "金属や植込み機器の確認が重要",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-005",
+      "title": "超音波検査",
+      "body": "高周波の音を使い体内を観察する。放射線は使用しない。",
+      "learningPoint": "検査の適応は部位によって異なる",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-006",
+      "title": "核医学検査",
+      "body": "放射性医薬品を使い、体内での分布や機能を画像化する。",
+      "learningPoint": "体外から撮影する検査との違い",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-007",
+      "title": "放射線治療",
+      "body": "がん細胞などに放射線を照射し、正常組織への影響を抑えながら治療する。",
+      "learningPoint": "位置と線量の精度",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-008",
+      "title": "放射線防護",
+      "body": "検査目的に応じた正当化・最適化、職業被ばく管理などが重要。",
+      "learningPoint": "必要な検査と不要な被ばくを区別",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-009",
+      "title": "医療被ばく",
+      "body": "患者が検査や治療のために受ける放射線。利益とリスクを総合して判断する。",
+      "learningPoint": "怖がらせず正確に説明",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-010",
+      "title": "画像の品質",
+      "body": "適切な条件で撮影し、診断に必要な画像を得る。再撮影を減らす工夫も重要。",
+      "learningPoint": "画質と線量のバランス",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-011",
+      "title": "患者確認",
+      "body": "本人確認、部位確認、検査内容確認は医療事故防止の基本。",
+      "learningPoint": "手順を省略しない",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-012",
+      "title": "造影検査",
+      "body": "造影剤で組織や血管を見やすくする場合がある。アレルギー歴等の確認と医療チーム連携が必要。",
+      "learningPoint": "患者の状態に応じた対応",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-013",
+      "title": "PACS",
+      "body": "医療用画像を保存・配信し、診療で共有する仕組み。",
+      "learningPoint": "情報管理とセキュリティ",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-014",
+      "title": "AI画像診断支援",
+      "body": "画像の検出や分類を支援する技術。最終的な診療判断や説明の責任まで自動化するものではない。",
+      "learningPoint": "利点と限界を考える",
+      "sourceType": "general_education"
+    },
+    {
+      "id": "RAD-015",
+      "title": "患者とのコミュニケーション",
+      "body": "説明・確認・傾聴を通じて患者の不安軽減と安全な検査につなげる。",
+      "learningPoint": "本人の言葉で具体例を言う",
+      "sourceType": "general_education"
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+{
+  "schemaVersion": "1.0",
+  "examType": "public",
+  "sourceUrl": "https://admissions.iuhw.ac.jp/exam/recommend/index.html",
+  "note": "英語20・国語20・数学20の基礎オリジナル問題。出題例や過去問ではない。数学は数学Ⅰ範囲の基本のみ。",
+  "questions": [
+    {
+      "id": "ACA-001",
+      "subject": "英語",
+      "question": "I ___ a student.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iにはam。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-002",
+      "subject": "英語",
+      "question": "She ___ tennis every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "playing",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "三人称単数現在はplays。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-003",
+      "subject": "英語",
+      "question": "They ___ busy yesterday.",
+      "choices": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "correctIndex": 3,
+      "explanation": "過去形の複数主語はwere。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-004",
+      "subject": "英語",
+      "question": "This book is ___ than that one.",
+      "choices": [
+        "interesting",
+        "more interesting",
+        "most interesting",
+        "interest"
+      ],
+      "correctIndex": 1,
+      "explanation": "比較級はmore interesting。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-005",
+      "subject": "英語",
+      "question": "I have lived here ___ 2020.",
+      "choices": [
+        "for",
+        "since",
+        "at",
+        "in"
+      ],
+      "correctIndex": 1,
+      "explanation": "起点はsince。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-006",
+      "subject": "英語",
+      "question": "If it rains, I ___ home.",
+      "choices": [
+        "stay",
+        "stayed",
+        "will stay",
+        "staying"
+      ],
+      "correctIndex": 2,
+      "explanation": "未来の帰結はwill stay。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-007",
+      "subject": "英語",
+      "question": "The letter ___ written by her.",
+      "choices": [
+        "is",
+        "are",
+        "have",
+        "be"
+      ],
+      "correctIndex": 0,
+      "explanation": "受動態はbe動詞＋過去分詞。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-008",
+      "subject": "英語",
+      "question": "He is good ___ math.",
+      "choices": [
+        "at",
+        "on",
+        "of",
+        "by"
+      ],
+      "correctIndex": 0,
+      "explanation": "be good at。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-009",
+      "subject": "英語",
+      "question": "I want ___ a nurse.",
+      "choices": [
+        "become",
+        "to become",
+        "becoming",
+        "became"
+      ],
+      "correctIndex": 1,
+      "explanation": "want to 動詞。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-010",
+      "subject": "英語",
+      "question": "There ___ many books.",
+      "choices": [
+        "is",
+        "was",
+        "are",
+        "be"
+      ],
+      "correctIndex": 2,
+      "explanation": "複数booksなのでare。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-011",
+      "subject": "英語",
+      "question": "I have never ___ to Kyoto.",
+      "choices": [
+        "go",
+        "went",
+        "been",
+        "going"
+      ],
+      "correctIndex": 2,
+      "explanation": "現在完了have been。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-012",
+      "subject": "英語",
+      "question": "Could you tell me ___ the station is?",
+      "choices": [
+        "what",
+        "where",
+        "when",
+        "who"
+      ],
+      "correctIndex": 1,
+      "explanation": "場所を尋ねるwhere。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-013",
+      "subject": "英語",
+      "question": "This is the man ___ helped me.",
+      "choices": [
+        "which",
+        "whose",
+        "who",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "人を受ける関係代名詞who。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-014",
+      "subject": "英語",
+      "question": "She enjoys ___ books.",
+      "choices": [
+        "read",
+        "reads",
+        "to read",
+        "reading"
+      ],
+      "correctIndex": 3,
+      "explanation": "enjoyの後は動名詞。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-015",
+      "subject": "英語",
+      "question": "Please speak ___.",
+      "choices": [
+        "slow",
+        "slowly",
+        "slowerly",
+        "slowness"
+      ],
+      "correctIndex": 1,
+      "explanation": "動詞を修飾する副詞。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-016",
+      "subject": "英語",
+      "question": "The train arrived ___ time.",
+      "choices": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "correctIndex": 0,
+      "explanation": "on timeは時間どおり。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-017",
+      "subject": "英語",
+      "question": "I am interested ___ science.",
+      "choices": [
+        "at",
+        "to",
+        "in",
+        "of"
+      ],
+      "correctIndex": 2,
+      "explanation": "be interested in。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-018",
+      "subject": "英語",
+      "question": "We ___ dinner when he called.",
+      "choices": [
+        "eat",
+        "were eating",
+        "have eaten",
+        "will eat"
+      ],
+      "correctIndex": 1,
+      "explanation": "過去進行形。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-019",
+      "subject": "英語",
+      "question": "You ___ wear a seat belt.",
+      "choices": [
+        "must",
+        "might to",
+        "should to",
+        "can to"
+      ],
+      "correctIndex": 0,
+      "explanation": "mustの後は動詞原形。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-020",
+      "subject": "英語",
+      "question": "My sister is as tall ___ I am.",
+      "choices": [
+        "than",
+        "to",
+        "as",
+        "with"
+      ],
+      "correctIndex": 2,
+      "explanation": "as ... as構文。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-021",
+      "subject": "国語",
+      "question": "「客観的」の意味として適切なのは？",
+      "choices": [
+        "自分の気分だけで判断",
+        "個人的感情から離れて判断",
+        "結論を避ける",
+        "事実を無視"
+      ],
+      "correctIndex": 1,
+      "explanation": "事実に基づいた立場。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-022",
+      "subject": "国語",
+      "question": "「顕著」の意味は？",
+      "choices": [
+        "目立って明らか",
+        "かすかな",
+        "偶然の",
+        "長年の"
+      ],
+      "correctIndex": 0,
+      "explanation": "顕著＝際立っている。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-023",
+      "subject": "国語",
+      "question": "「推敲」とは？",
+      "choices": [
+        "文章を見直し練り直す",
+        "暗記する",
+        "写す",
+        "発表する"
+      ],
+      "correctIndex": 0,
+      "explanation": "文章表現を練り直すこと。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-024",
+      "subject": "国語",
+      "question": "「根拠」に最も近い意味は？",
+      "choices": [
+        "理由や証拠",
+        "好み",
+        "予測だけ",
+        "感想"
+      ],
+      "correctIndex": 0,
+      "explanation": "主張を支える理由。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-025",
+      "subject": "国語",
+      "question": "「因果関係」とは？",
+      "choices": [
+        "原因と結果の結びつき",
+        "人物相関",
+        "年代順だけ",
+        "賛成と反対"
+      ],
+      "correctIndex": 0,
+      "explanation": "原因と結果。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-026",
+      "subject": "国語",
+      "question": "「一方で」は主に何を表す？",
+      "choices": [
+        "対比",
+        "結論の繰り返し",
+        "具体例の列挙",
+        "時間経過"
+      ],
+      "correctIndex": 0,
+      "explanation": "対比や別の側面への転換。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-027",
+      "subject": "国語",
+      "question": "「したがって」は主に何を表す？",
+      "choices": [
+        "結論",
+        "単純な例示",
+        "逆接",
+        "列挙"
+      ],
+      "correctIndex": 0,
+      "explanation": "理由からの結論。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-028",
+      "subject": "国語",
+      "question": "「例えば」は主に何を表す？",
+      "choices": [
+        "例示",
+        "逆接",
+        "強い否定",
+        "結末"
+      ],
+      "correctIndex": 0,
+      "explanation": "事例の導入。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-029",
+      "subject": "国語",
+      "question": "小論文で最も大切なものは？",
+      "choices": [
+        "主張と根拠の一貫性",
+        "感情の強さだけ",
+        "難語の多さ",
+        "長い引用"
+      ],
+      "correctIndex": 0,
+      "explanation": "論理性を重視。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-030",
+      "subject": "国語",
+      "question": "文章で「しかし」は何を示す？",
+      "choices": [
+        "逆接",
+        "順接",
+        "例示",
+        "並列"
+      ],
+      "correctIndex": 0,
+      "explanation": "逆の内容へ転じる。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-031",
+      "subject": "国語",
+      "question": "「尊重」の意味は？",
+      "choices": [
+        "価値を認め大切にする",
+        "無条件に同意する",
+        "無視する",
+        "強制する"
+      ],
+      "correctIndex": 0,
+      "explanation": "相手の立場を大切にする。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-032",
+      "subject": "国語",
+      "question": "「是非を問う」の「是非」とは？",
+      "choices": [
+        "正しいか正しくないか",
+        "場所",
+        "時間",
+        "原因"
+      ],
+      "correctIndex": 0,
+      "explanation": "賛否・正否。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-033",
+      "subject": "国語",
+      "question": "「適切」に近い語は？",
+      "choices": [
+        "ふさわしい",
+        "巨大な",
+        "曖昧な",
+        "古い"
+      ],
+      "correctIndex": 0,
+      "explanation": "条件に合っていること。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-034",
+      "subject": "国語",
+      "question": "「根拠が乏しい」とは？",
+      "choices": [
+        "支える理由が少ない",
+        "理由が十分",
+        "意見が一致",
+        "事実が確定"
+      ],
+      "correctIndex": 0,
+      "explanation": "根拠の不足。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-035",
+      "subject": "国語",
+      "question": "「課題」の意味として自然なのは？",
+      "choices": [
+        "解決に取り組む問題",
+        "完成した結果",
+        "関係ない情報",
+        "過去の人名"
+      ],
+      "correctIndex": 0,
+      "explanation": "取り組むべき問題。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-036",
+      "subject": "国語",
+      "question": "「概要」とは？",
+      "choices": [
+        "全体のあらまし",
+        "細部すべて",
+        "結論だけ",
+        "誤りの一覧"
+      ],
+      "correctIndex": 0,
+      "explanation": "全体の大筋。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-037",
+      "subject": "国語",
+      "question": "「妥当」の意味は？",
+      "choices": [
+        "適切で無理がない",
+        "必ず新しい",
+        "最大規模",
+        "多数派だけ"
+      ],
+      "correctIndex": 0,
+      "explanation": "合理的で適切。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-038",
+      "subject": "国語",
+      "question": "「検証」の意味は？",
+      "choices": [
+        "確かめること",
+        "忘れること",
+        "増やすこと",
+        "想像だけ"
+      ],
+      "correctIndex": 0,
+      "explanation": "根拠を確かめる。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-039",
+      "subject": "国語",
+      "question": "「抽象的」の反対として近いものは？",
+      "choices": [
+        "具体的",
+        "主観的",
+        "形式的",
+        "一般的"
+      ],
+      "correctIndex": 0,
+      "explanation": "具体的が対義的。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-040",
+      "subject": "国語",
+      "question": "文章中の「そのため」が示すのは？",
+      "choices": [
+        "前の内容を理由にした結果",
+        "例示のみ",
+        "無関係な話",
+        "単なる時系列"
+      ],
+      "correctIndex": 0,
+      "explanation": "理由→結果の接続。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-041",
+      "subject": "数学Ⅰ",
+      "question": "2x+3=11 の x は？",
+      "choices": [
+        "6",
+        "3",
+        "4",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると4。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-042",
+      "subject": "数学Ⅰ",
+      "question": "5x-7=18 の x は？",
+      "choices": [
+        "7",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると5。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-043",
+      "subject": "数学Ⅰ",
+      "question": "3(x+2)=21 の x は？",
+      "choices": [
+        "7",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると5。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-044",
+      "subject": "数学Ⅰ",
+      "question": "x²=49 の正の解は？",
+      "choices": [
+        "9",
+        "6",
+        "7",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると7。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-045",
+      "subject": "数学Ⅰ",
+      "question": "x²-5x+6=0 の小さい方の解は？",
+      "choices": [
+        "4",
+        "1",
+        "2",
+        "7"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると2。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-046",
+      "subject": "数学Ⅰ",
+      "question": "y=2x+1 で x=4 のとき y は？",
+      "choices": [
+        "11",
+        "8",
+        "9",
+        "14"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると9。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-047",
+      "subject": "数学Ⅰ",
+      "question": "x²-4x+4 の x=3 での値は？",
+      "choices": [
+        "3",
+        "0",
+        "1",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると1。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-048",
+      "subject": "数学Ⅰ",
+      "question": "√81 の値は？",
+      "choices": [
+        "11",
+        "8",
+        "9",
+        "14"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると9。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-049",
+      "subject": "数学Ⅰ",
+      "question": "20人中6人の割合は何％？",
+      "choices": [
+        "32",
+        "29",
+        "30",
+        "35"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると30。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-050",
+      "subject": "数学Ⅰ",
+      "question": "200の15％は？",
+      "choices": [
+        "32",
+        "29",
+        "30",
+        "35"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると30。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-051",
+      "subject": "数学Ⅰ",
+      "question": "3,5,7,9 の平均は？",
+      "choices": [
+        "8",
+        "5",
+        "6",
+        "11"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると6。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-052",
+      "subject": "数学Ⅰ",
+      "question": "2,4,4,6,9 の中央値は？",
+      "choices": [
+        "6",
+        "3",
+        "4",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると4。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-053",
+      "subject": "数学Ⅰ",
+      "question": "y=x² の x=-3 での値は？",
+      "choices": [
+        "11",
+        "8",
+        "9",
+        "14"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると9。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-054",
+      "subject": "数学Ⅰ",
+      "question": "2(x-1)+3x=18 の x は？",
+      "choices": [
+        "6",
+        "3",
+        "4",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると4。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-055",
+      "subject": "数学Ⅰ",
+      "question": "x²-9=0 の正の解は？",
+      "choices": [
+        "5",
+        "2",
+        "3",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると3。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-056",
+      "subject": "数学Ⅰ",
+      "question": "50の2割は？",
+      "choices": [
+        "12",
+        "9",
+        "10",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると10。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-057",
+      "subject": "数学Ⅰ",
+      "question": "60分の4分の1は何分？",
+      "choices": [
+        "17",
+        "14",
+        "15",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると15。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-058",
+      "subject": "数学Ⅰ",
+      "question": "10,12,14 の平均は？",
+      "choices": [
+        "14",
+        "11",
+        "12",
+        "17"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると12。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-059",
+      "subject": "数学Ⅰ",
+      "question": "x²+6x+9 を (x+a)² と表すと a は？",
+      "choices": [
+        "5",
+        "2",
+        "3",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "計算すると3。",
+      "sourceType": "original_exercise"
+    },
+    {
+      "id": "ACA-060",
+      "subject": "数学Ⅰ",
+      "question": "1/2 + 1/4 は何分の何？",
+      "choices": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "通分して2/4+1/4=3/4。",
+      "sourceType": "original_exercise"
+    }
+  ]
+}

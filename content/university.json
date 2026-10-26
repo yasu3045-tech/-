@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.0",
+  "title": "大学・学科研究",
+  "examType": "unknown",
+  "topics": [
+    {
+      "id": "UNI-001",
+      "title": "進学先の正式名称",
+      "body": "国際医療福祉大学 成田保健医療学部 放射線・情報科学科。千葉県の成田キャンパスで、診療放射線技師を目指す。",
+      "learningPoint": "名称を正確に伝える",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-002",
+      "title": "学科の目標",
+      "body": "放射線を使う画像診断や放射線治療を支える知識と技術に加え、患者さんの負担を抑える判断力を学ぶ。",
+      "learningPoint": "正確さと患者中心を結びつける",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-003",
+      "title": "医学部との連携",
+      "body": "成田キャンパスには医学部と複数の医療系学部があり、他職種を理解しながら学ぶ環境がある。",
+      "learningPoint": "多職種理解の重要性",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-004",
+      "title": "教育専用機器",
+      "body": "教育専用の医療機器を備え、実践的な学修を重視する。",
+      "learningPoint": "知識を実技につなげる",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-005",
+      "title": "成田シミュレーションセンター",
+      "body": "学内のシミュレーションセンターを活用した教育が紹介されている。",
+      "learningPoint": "安全に練習する意義",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-006",
+      "title": "附属病院実習",
+      "body": "国際医療福祉大学成田病院など附属・関連施設で学ぶ機会がある。",
+      "learningPoint": "現場で学ぶ姿勢",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": true
+    },
+    {
+      "id": "UNI-007",
+      "title": "海外研修",
+      "body": "学科紹介では海外研修を必須科目として案内している。",
+      "learningPoint": "異なる医療文化から学ぶ",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": true
+    },
+    {
+      "id": "UNI-008",
+      "title": "放射線の二つの役割",
+      "body": "画像を撮る「診断」と、がんなどに対する「治療」は放射線医療の重要な柱である。",
+      "learningPoint": "検査と治療を区別",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-009",
+      "title": "チーム医療",
+      "body": "診療放射線技師は医師や看護師などと情報を共有し、患者の安全を支える。",
+      "learningPoint": "連携の具体例を考える",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-010",
+      "title": "医療情報を学ぶ意義",
+      "body": "撮影画像を適切に管理し、診療に活用するための情報技術・安全意識が必要。",
+      "learningPoint": "情報の取扱いも医療安全",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-011",
+      "title": "患者への配慮",
+      "body": "検査には不安や痛みを感じる患者がいる。説明・声掛け・プライバシーへの配慮も大切。",
+      "learningPoint": "技術力だけでは不十分",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-012",
+      "title": "進路目標",
+      "body": "診療放射線技師として働くには、養成課程の修了など受験資格を満たし国家試験に合格する必要がある。",
+      "learningPoint": "目標と学びを接続",
+      "sourceUrl": "https://www.mhlw.go.jp/",
+      "sourceType": "reference",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-013",
+      "title": "大学を選ぶ理由の作り方",
+      "body": "教育専用機器、他職種連携、病院実習、国際研修のうち、本人の目標と関係する特徴を選ぶ。",
+      "learningPoint": "特色の羅列で終えない",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-014",
+      "title": "入学後に取り組みたいこと",
+      "body": "専門知識に加え、コミュニケーション、医療安全、医療情報への理解を深める計画を考える。",
+      "learningPoint": "具体的に答える",
+      "sourceUrl": "https://narita.iuhw.ac.jp/gakubu/rt/",
+      "sourceType": "official",
+      "reviewRequired": false
+    },
+    {
+      "id": "UNI-015",
+      "title": "推薦方式の確認",
+      "body": "公募制と指定校制では条件・試験が異なりうる。指定校制の詳細は高校進路指導室への確認が必要。",
+      "learningPoint": "学校で必ず確認",
+      "sourceUrl": "https://admissions.iuhw.ac.jp/exam/recommend/index.html",
+      "sourceType": "official",
+      "reviewRequired": false
+    }
+  ]
+}
